@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I :heart: data and R, I am a data analyst and bioinformatics expert at University of Bergen, Norway, and a co-founder of [R-Ladies Bergen](https://www.meetup.com/rladies-bergen/).
+
+Checkout [my webpage](https://jrom.bitbucket.io/homepage/).
+
+💬 Ask me about:
+
+- R programming :computer:
+- data visualization
+- knitting :yarn:
+- yoga
+
+
 <!--
 **jromanowska/jromanowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
