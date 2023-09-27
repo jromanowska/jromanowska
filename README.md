@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I :heart: data and R, I am a data analyst and bioinformatics expert at University of Bergen, Norway, and a co-founder of [R-Ladies Bergen](https://www.meetup.com/rladies-bergen/).
+Recently, I've also fallen in love with JuliaLang!
 
 Checkout [my webpage](https://jrom.bitbucket.io/homepage/).
 
@@ -8,6 +9,8 @@ Checkout [my webpage](https://jrom.bitbucket.io/homepage/).
 
 - R programming :computer:
 - data visualization
+- genetic/epigenetic data analysis
+- epidemiology
 - knitting :yarn:
 - yoga
 
